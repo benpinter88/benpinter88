@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benpinter88
-- 👀 I’m interested in Linux, Free Software, DevOps tools
-- 🌱 I’m currently learning to work with various DevOps tools 
+- 👀 I’m interested in Linux, Free Software, DevOps tools, scripting, automating.
+- 🌱 I’m currently learning to work with various DevOps tools and using Python and Go for simple, practical applications.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
